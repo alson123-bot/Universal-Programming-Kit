@@ -98,7 +98,19 @@ The simulator displays the execution process and updates the virtual LED state a
 - Project save/load functionality
 
 ---
+## Screenshots
 
+### Login Screen
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Arduino Compiler
+![Compiler](screenshots/compiler.png)
+
+### Simulation Output
+![Simulation](screenshots/simulation.png)
 ## Author
 
 **Alson Debbarma**
